@@ -1,0 +1,11 @@
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\ConsoUseWebApi\ConsoUseWebApi\bin\Debug\netcoreapp2.1\ConsoUseWebApi.deps.json
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\ConsoUseWebApi\ConsoUseWebApi\bin\Debug\netcoreapp2.1\ConsoUseWebApi.runtimeconfig.json
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\ConsoUseWebApi\ConsoUseWebApi\bin\Debug\netcoreapp2.1\ConsoUseWebApi.runtimeconfig.dev.json
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\ConsoUseWebApi\ConsoUseWebApi\bin\Debug\netcoreapp2.1\ConsoUseWebApi.dll
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\ConsoUseWebApi\ConsoUseWebApi\obj\Debug\netcoreapp2.1\ConsoUseWebApi.csprojAssemblyReference.cache
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\ConsoUseWebApi\ConsoUseWebApi\obj\Debug\netcoreapp2.1\ConsoUseWebApi.csproj.CoreCompileInputs.cache
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\ConsoUseWebApi\ConsoUseWebApi\obj\Debug\netcoreapp2.1\ConsoUseWebApi.AssemblyInfoInputs.cache
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\ConsoUseWebApi\ConsoUseWebApi\obj\Debug\netcoreapp2.1\ConsoUseWebApi.AssemblyInfo.cs
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\ConsoUseWebApi\ConsoUseWebApi\bin\Debug\netcoreapp2.1\ConsoUseWebApi.pdb
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\ConsoUseWebApi\ConsoUseWebApi\obj\Debug\netcoreapp2.1\ConsoUseWebApi.dll
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\ConsoUseWebApi\ConsoUseWebApi\obj\Debug\netcoreapp2.1\ConsoUseWebApi.pdb
